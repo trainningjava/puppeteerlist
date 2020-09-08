@@ -1,5 +1,4 @@
 # puppeteerlist
-Lista os nomes dos ranks da maratona
 
 ## :information_source: Sobre o que se trata ?
 
